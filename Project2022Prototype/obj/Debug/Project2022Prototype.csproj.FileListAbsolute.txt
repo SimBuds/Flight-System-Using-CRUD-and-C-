@@ -49,3 +49,14 @@ C:\Users\Casey\Desktop\ProjectV2\Project2022Prototype\obj\Debug\Project2022Proto
 C:\Users\Casey\Desktop\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.csproj.CoreCompileInputs.cache
 C:\Users\Casey\Desktop\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.exe
 C:\Users\Casey\Desktop\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.pdb
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\bin\Debug\Project2022Prototype.exe.config
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\bin\Debug\Project2022Prototype.exe
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\bin\Debug\Project2022Prototype.pdb
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.csproj.AssemblyReference.cache
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.Form1.resources
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.Properties.Resources.resources
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.csproj.GenerateResource.cache
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.exe
+C:\Users\Casey\School\Semester 3\COMP 2129 - Advanced Object-Oriented Programming\Project\ProjectV2\Project2022Prototype\obj\Debug\Project2022Prototype.pdb
